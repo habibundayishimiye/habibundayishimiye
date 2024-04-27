@@ -26,13 +26,6 @@
 - Kiswahili: Fluent
 - French: Basic
 
-## References
-- Mbonabucya Celestin
-- Murangira Thierry
-- Niyonkuru Jean Paul
-- Kwizera Egide
-- Tuyishime David
-- Munezero Ntaganira Michael
 
 ## Contact
 - Email: habibundayishimiye@gmail.com
